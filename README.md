@@ -6,7 +6,7 @@ I am searching for internship and job opportunities to learn more and to work on
 ## About Me
 
 - I’m currently working on personal projects to enhance my coding skills and build a strong portfolio.
-- I’m learning HTML, CSS, Python, SQL, JavaScript, nodeJS, expressJS, ReactJS.
+- I know HTML, CSS, Python, SQL, JavaScript, nodeJS, expressJS, ReactJS.
 - I’m looking to collaborate on projects involving web development.
 
 ## 💻 Technologies & Tools
