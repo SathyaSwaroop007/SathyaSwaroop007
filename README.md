@@ -1,7 +1,7 @@
 # Hello, I'm Arigela Sathya Swaroop 👋
 
-I am a 3rd-year Computer Science and Engineering student in RGUKT, with an interest in pursuing web development and application thereof.
-I am searching for internship and job opportunities to learn more and to work on new and exciting projects.
+I am a Final-year Computer Science and Engineering student in RGUKT-O, with an interest in pursuing web development and application thereof.
+Currently interning at TiHAN-IITH. I am searching for job opportunities to learn more and to work on new and exciting projects.
 
 ## About Me
 
